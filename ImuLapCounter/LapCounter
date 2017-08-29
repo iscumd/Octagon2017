@@ -1,1 +1,0 @@
-IMU detect overall turning (left or right), integrate drift, see when switches from R to L and vice-versa, initate slow down when approaching 4th turn
